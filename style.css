@@ -1,0 +1,449 @@
+
+.fira-sans-regular {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+ body{
+ width: 1600px;
+  margin: 0;
+  padding: 0;
+  background-color: #F1F1F3;
+ 
+ }
+
+ header{
+  max-width: 1280px;
+  margin: 0 auto;
+
+ }
+
+  nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 200px;
+    
+    
+    }
+    
+
+    .btn-primary{
+     background-color: #ffffff;
+     font-weight:700;
+     color:#006A50 ;
+     border-radius: 5px;
+     padding: 12px;
+     text-align: center;
+     border-color: #006A50;
+     font-size:20px ;
+    
+    }
+
+    .banner{
+        display: flex;
+        justify-content: space-between;
+        margin: 40px 35px 0 200px;
+        background-color: #C6E4D6;
+        border-radius: 5px;
+        padding: 80px 100px 80px 100px;
+        align-items: center;
+        height: 326px;
+       
+        }
+
+        .banner-subtitle{
+         color: #0E0E0E;
+         font-size: 18px;
+         font-weight: 500;
+
+        }
+
+        .banner-title{
+          font-weight: bold;
+          font-size:31px;
+        }
+          
+
+        .banner-content{
+          max-width: 50%;
+          text-align: left;
+        }
+
+    .btn-explorebd{
+        background-color: #006A50;
+        font-weight: 400;
+        color: #FFFFFF;
+        padding: 18px 35px;
+        border-radius: 5px;
+        font-size: 14px;
+        border: none;
+    
+      }
+
+      main{
+
+        max-width: 1280px;
+        margin: 0 auto;
+        
+        }
+
+      /* shared part */
+
+      .piller-subtitle{
+        color: #0E0E0E;
+        
+        font-weight: 200;
+
+        font-size: 13px;
+
+        margin-bottom: 20px;
+
+
+      }
+
+
+      /*first piller */
+
+
+
+      .pillars{
+        max-width: 1280px;
+        padding: 30px;
+        border-radius: 10px;
+       margin:40px  0  40px 170px;
+       height: 326px;
+
+      }
+
+      .piller-items{
+        display: flex;
+        align-items: center;
+        justify-content:space-around;
+        gap: 24px;
+        margin-top: 32px;
+        margin-bottom: 32px;
+
+      }
+
+      .piller-item{
+        background: #FFFFFF;
+        border-radius: 10px;
+        padding:18px;
+        gap: 18px;
+        width: 254px;
+        height:142px;
+      
+
+      }
+
+      .piller-title{
+
+        font-weight: 700;
+        font-size: 30px;
+      }
+      .item-title{
+         font-size: 14px;
+
+            }
+
+      section div img{
+        width: 44px;
+        height: 44px;
+
+      }
+
+      /* vission section */
+
+      .vission{
+
+        margin:40px  0  40px 170px;
+
+
+      }
+      
+      .vision1{
+        background:#b0cffa;
+        border-radius: 10px;
+        padding:18px;
+        gap: 18px;
+        width: 315px;
+        height: 205px;
+        padding: 32px;
+     
+
+
+      }
+
+      .vision2{
+        background: #C6E4D6;
+        border-radius: 10px;
+        padding:18px;
+        gap: 18px;
+        width: 315px;
+        height:205px;
+        padding: 32px;
+     
+
+
+      }
+
+     
+
+      .vision3{
+        background: #F7EBCF;
+        border-radius: 10px;
+        padding:18px;
+        gap: 18px;
+        width: 315px;
+        height:205px;
+        padding: 32px;
+       
+
+
+      }
+
+      .btn-explore2{
+        background-color: #3977fc;
+        font-weight: 400;
+        color: #FFFFFF;
+        padding: 5px 8px;
+        border-radius: 5px;
+        font-size: 10px;
+        border: none;
+        margin-top: 35px;
+
+
+      }
+      
+      .btn-explore3{
+        background-color: #4c7944;
+        font-weight: 400;
+        color: #FFFFFF;
+        padding: 5px 8px;
+        border-radius: 5px;
+        font-size: 10px;
+        border: none;
+        margin-top: 20px;
+
+
+      }
+      
+
+      .btn-explore4{
+        background-color: #FFC239;
+        font-weight: 400;
+        color: #FFFFFF;
+        padding: 5px 8px;
+        border-radius: 5px;
+        font-size: 10px;
+        border: none;
+        margin-top: 20px;
+
+
+      }
+      
+
+
+
+
+.Yunus-portion{
+  margin-top: 55px;
+  background-color: #ffffff;
+padding: 38px; 
+
+
+box-shadow: 0.4px 0.4px 0.4px 0.4px gray;
+
+border-radius: 15px;
+
+
+}
+
+/* news */
+
+.news{
+  max-width: 1280px;
+  padding: 30px;
+  border-radius: 10px;
+ margin:40px  0  40px 170px;
+
+
+
+}
+
+.satellite1{
+
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+  gap: 32px;
+  background-color: #FFFFFF;
+  padding: 38px;
+  margin-top: 32px;
+  padding: 28px;
+
+}
+
+.satelite-piectur{
+
+width: 290px;
+height: 190px;
+border-radius: 10px;
+
+}
+
+.st-title{
+
+  color: #0E0E0E;
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.jazeera-pic{
+width: 130px;
+height: 35px;
+
+}
+.date-time{
+  font-size: 13px;
+  font-weight: 355;
+}
+
+.read-more{
+  background-color: #006A50;
+  font-weight: 400;
+  color: #FFFFFF;
+  padding: 14px 17px;
+  border-radius: 5px;
+  font-size: 11px;
+  border: none;
+  
+
+
+
+}
+
+/* donation part */
+
+.donation{
+  max-width: 1280px;
+  padding: 30px;
+text-align: center;
+ margin:40px  0  40px 170px;
+
+
+}
+
+.donation button{
+  margin-top: 30px;
+}
+
+.amount-box{
+background: #FFFFFF;
+padding: 30px;
+border-radius: 8px;
+font-weight: bold;
+width: 180px;
+
+}
+
+.amount-box2{
+  background: #C6E4D6;
+padding: 30px;
+border-radius: 8px;
+font-weight: bold;
+width: 180px;
+
+}
+
+input{
+ width: 100%;
+ border: 1px #FFFFFF;
+ outline: none;
+ text-align: center;
+ padding:10px ;
+ box-shadow: 0 2px #FFFFFF;
+ padding: 12px;
+
+}
+
+
+
+.newsletter-container{
+
+  max-width: 1280px;
+  padding: 30px;
+  text-align: center;
+ margin:40px  0  40px 170px;
+ background-color: #C6E4D6;
+ align-items: center;
+
+
+}
+
+.news-content{
+  width:500px;
+  height: 250px;
+  text-align: center;
+  margin-left:250px;
+}
+
+
+.input-container {
+  display: flex;  
+  justify-content:center;
+  align-items: center;
+ 
+}
+
+.input-container input {
+ 
+  padding: 14px 17px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  width: 450px;
+  height: 14px;
+  text-align: left;
+}
+
+
+/* footer-part" */
+
+
+.footer-part {
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  margin-left: 140px;
+  padding: 20px 0;
+}
+
+
+hr{
+  width: 1100px;
+  margin: 15px 0;
+  opacity: 30%;
+}
+
+.logo{
+  display: flex;
+
+  gap: 10px;
+ 
+
+}
+
+.logo img{
+margin-top: 24px;
+  width: 17px;
+  height: 17px;
+  align-items: center;
+
+
+}
